@@ -1,0 +1,3 @@
+merge rama_A a rama main (git merge rama_A)
+
+merge main a rama_A (git merge main) --> rama_A*
